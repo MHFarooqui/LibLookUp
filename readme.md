@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![github pages](https://github.com/MHFarooqui/libLookUp/actions/workflows/main.yml/badge.svg)](https://github.com/MHFarooqui/libLookUp/actions/workflows/main.yml)
 
 
 # Dummy GraphQL API
